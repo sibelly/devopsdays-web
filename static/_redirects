@@ -268,3 +268,4 @@
 /brasov/*            /events/2026-brasov/:splat           302
 /tashkent/*            /events/2026-tashkent/:splat           302
 /islamabad/*            /events/2026-islamabad/:splat           302
+/campo-grande/*		/events/2027-campo-grande/:splat		302
